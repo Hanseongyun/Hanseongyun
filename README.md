@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=han&fontSize=30&fontcolor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=han&fontSize=30&fontcolor=d6ace6)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanseongyun&show_icons=true&theme=tokyonight)
 
@@ -8,7 +8,7 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=auto&section=footer)
 
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <!--
 **Hanseongyun/Hanseongyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
