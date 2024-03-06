@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=han&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=han&fontSize=30&fontcolor=d6ace6)
 
 <!--
 **Hanseongyun/Hanseongyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
