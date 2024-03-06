@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=han&fontSize=30&fontcolor=d6ace6)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanseongyun)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanseongyun)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=auto&section=footer)
 
