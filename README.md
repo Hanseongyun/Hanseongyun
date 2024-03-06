@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanseongyun&show_icons=true&theme=tokyonight)
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanseongyun&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=auto&section=footer)
 
 <!--
