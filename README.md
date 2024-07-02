@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&section=header&text=Han&fontSize=30&fontcolor=d6ace6)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanseongyun&show_icons=true&theme=tokyonight)
 
